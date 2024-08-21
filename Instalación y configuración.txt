@@ -1,0 +1,23 @@
+Instalación bash
+
+1. Inicializa el proyecto:
+
+mkdir task-manager
+cd task-manager
+npm init -y
+
+2. Instala las dependencias:
+
+npm install express mongoose
+
+3. Crea la estructura de carpetas y archivos según el esquema proporcionado.
+
+4. Inicia MongoDB (si lo tienes instalado localmente):
+
+mongod --dbpath /ruta/a/tu/base/de/datos
+
+5. Inicia tu servidor Node.js:
+
+node server/index.js
+
+6. Abre http://localhost:3000 en tu navegador para probar la aplicación.

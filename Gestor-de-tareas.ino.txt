@@ -1,0 +1,13 @@
+Gestor-de-tareas/
+├── server/
+│   ├── index.js
+│   ├── routes/
+│   │   └── tasks.js
+│   └── models/
+│       └── Task.js
+├── public/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+├── package.json
+└── README.md
